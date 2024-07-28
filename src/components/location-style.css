@@ -1,0 +1,34 @@
+.location-container {
+    text-align: center;
+    padding: 00px;
+}
+
+.location-title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.map-container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 40%;
+}
+
+.map-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+@media (min-width: 768px) {
+    .location-title {
+        font-size: 3rem;
+    }
+
+    .map-container {
+        padding-top: 25%;
+    }
+}

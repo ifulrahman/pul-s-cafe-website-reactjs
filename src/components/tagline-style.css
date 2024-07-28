@@ -1,0 +1,44 @@
+.parallax {
+    background-image: url('../assets/ayam-panggang.jpg');
+    min-height: 70vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.tagline-container {
+    text-align: center;
+    color: white;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.5);
+    position: relative;
+    top: 20%;
+    transform: translateY(-10%);
+    width: 100%;
+}
+
+.tagline-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.tagline-subtitle {
+    font-size: 10px;
+    margin: 0;
+}
+
+@media (min-width: 768px) {
+    .tagline-title {
+        font-size: 1.7rem;
+    }
+
+    .tagline-subtitle {
+        font-size: 1.3rem;
+    }
+}
