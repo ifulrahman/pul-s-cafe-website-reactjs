@@ -1,8 +1,29 @@
-# React + Vite
+# Pul's Cafe Website (React.js + Vanilla CSS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### 👌 <i>Muhammad Syaiful Rahman</i> 👌 
 
-Currently, two official plugins are available:
+## Technology
+![React](https://img.shields.io/badge/React.js-light.svg?&style=flat&logo=react&logoColor=#00d8ff&color=blue)
+![CSS](https://img.shields.io/badge/CSS-light.svg?&style=flat&logo=css3&logoColor=white&color=blue)
+- React.js
+- Vanilla CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Notes
+✔ Halaman menggunakan React.js <br>
+✔ Breakdown by Component <br>
+✔ Data melalui props <br>
+✔ Data perulangan sudah dilooping <br>
+
+## Screenshots (Preview)
+
+<p align="center">
+  <img width="600" alt="image" src="Screenshot_1 (3).png"/>
+</p>
+
+<p align="center">
+  <img width="600" alt="image" src="Screenshot_2_New.png"/>
+</p>
+
+<p align="center">
+  <img width="600" alt="image" src="Screenshot_3.png"/>
+</p>
