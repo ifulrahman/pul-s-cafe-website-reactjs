@@ -14,6 +14,13 @@
 ✔ Data melalui props <br>
 ✔ Data perulangan sudah dilooping <br>
 
+## Brief Steps
+- Download ZIP file dari repository projek ini
+- Buka folder projek dengan code editor (VSCode, sublime text, dll)
+- Buka terminal code editor
+- <s>npm i</s> (Karena di repository ini sudah ada node_modules sehingga tidak perlu `npm i` lagi)
+- `npm run dev`
+
 ## Screenshots (Preview)
 
 <p align="center">
